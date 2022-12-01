@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Biodata_Mahasiswa_KelasA_Uts</string>
+    <string name="nama_heroes">Daftar Teman Sekelas</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Rosanti</item>
+        <item>Dian Uli Gustiani Ngkale</item>
+        <item>Tasya Mulfiana</item>
+        <item>Andi Wulan Wahyuni</item>
+        <item>Indri Naftaly Mangkawa</item>
+        <item>Felisya</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+         <item>Rosanti adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 11 februari 2003 di pandanwangi.Hobinya yaitu menyanyi dan juga berolahraga.
+            Dan memiliki 3 bersaudara."/></item>
+        <item>Dian adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 10 januari 2003 di  palu.Hobinya yaitu masak dan juga membaca.
+            Dan memiliki 4 bersaudara.</item>
+        <item>Tasya adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 11 agustus 2003 di palu.Hobinya yaitu menggambar dan juga menyanyi.
+            Dan memiliki 3 bersaudara</item>
+        <item>Wulan adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 17 maret 2003 di palu.Hobinya yaitu main bulutangkis dan juga berolahraga.
+            Dan memiliki 3 bersaudara</item>
+        <item>indri adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 05 februari 2003 di palu.Hobinya yaitu main bulutangkis dan juga berolahraga.
+            Dan memiliki 2 bersaudara</item>
+        <item>felisya adalah seorang mahasiswa yang menempuh pendidikan di universitas tadulako.lahir pada tanggal 29 desember 2002 di palu .Hobinya yaitu main bulutangkis dan juga berolahraga.
+            Dan memiliki 2 bersaudara</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/ros</item>
+        <item>@drawable/dian</item>
+        <item>@drawable/tasya</item>
+        <item>@drawable/wahyuni</item>
+        <item>@drawable/kilo</item>
+        <item>@drawable/felisya</item>
+
+    </array>
+</resources>
